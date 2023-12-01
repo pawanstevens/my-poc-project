@@ -16,6 +16,8 @@ At the back-end side I have developed REST API's to perform CRUD operations on b
 
 ###### Update Employee
 
+<img width="1554" alt="Screenshot 2023-12-01 at 5 18 04 AM" src="https://github.com/pawanstevens/my-poc-project/assets/144848774/a0ea516d-73b0-40b1-a84f-1cf594c9f0ea">
+
 
 
 
