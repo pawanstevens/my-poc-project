@@ -11,8 +11,11 @@ At the back-end side I have developed REST API's to perform CRUD operations on b
 
 ### Usage
 ---
-Add Employee
+###### Add Employee
 <img width="1554" alt="Screenshot 2023-12-01 at 5 18 37 AM" src="https://github.com/pawanstevens/my-poc-project/assets/144848774/83cb9520-4fba-4e60-929e-e6a45ee1d1ab">
+
+###### Update Employee
+
 
 
 
